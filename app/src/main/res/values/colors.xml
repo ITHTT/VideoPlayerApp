@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="player_sb_bg">#FFFFE4D9</color>
+    <color name="player_sb_secondary_progress_color">#a9c7975f</color>
+
+    <color name="grey50transparent">#dcfafafa</color>
+    <color name="grey400transparent">#80bdbdbd</color>
+    <color name="grey900transparent">#80212121</color>
+    <color name="orange500transparent">#b4ff8800</color>
+
+    <color name="uvv_gray">#969696</color>
+    <color name="uvv_black">#ff000000</color>
+    <color name="uvv_light_gray">#ffF0F0F0</color>
+    <color name="uvv_titlebar_bg">#7f000000</color>
+</resources>
