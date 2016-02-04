@@ -7,8 +7,7 @@
     <FrameLayout
         android:id="@+id/video_layout"
         android:layout_width="fill_parent"
-        android:layout_height="200dp"
-        android:background="@android:color/black">
+        android:layout_height="200dp">
 
         <com.tysci.videoplayer.widgets.UniversalVideoView
             android:id="@+id/videoView"

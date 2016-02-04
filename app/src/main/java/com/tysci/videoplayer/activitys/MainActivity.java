@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements UniversalVideoVie
 
     private static final String TAG = "MainActivity";
     private static final String SEEK_POSITION_KEY = "SEEK_POSITION_KEY";
-    private static final String VIDEO_URL = "http://disp.titan.mgtv.com/mp4/2014/zongyi/sjsdzgdej_5674/0DAF65EDAEF3F4BF87892B1025572B13_20140516_1_1_898.mp4?ver=0.1&fmt=4&pno=1000&fid=0DAF65EDAEF3F4BF87892B1025572B13&gsid=45e0f3a2e6754d939fd5829b77fd0bff";
+    private static final String VIDEO_URL = "http://wwd.mediacdn.cedock.net/ts/20150323/CDN2015032300297.ts";
 
     UniversalVideoView mVideoView;
     UniversalMediaController mMediaController;
